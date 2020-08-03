@@ -9,7 +9,7 @@ int Armor;
 
 int main() {
 
-	cout << "Welcome to the AQ3D Damace Calculator v0.1a" << endl;
+	cout << "Welcome to the AQ3D Damage Calculator v0.1a" << endl;
 	cout << "Created by Rethink" << endl;
 	cout << "Please do not set a number beneath 1066 for armor or 1 for atk/power" << endl;
 	cout << "Too lazy to do input validation" << endl;
